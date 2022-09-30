@@ -1,0 +1,13 @@
+img{
+    width: 600px;
+}
+.intropara{
+    font-size: 14px;
+    color: red;
+}
+body {
+    color:#92a8d1;
+}
+abbr{
+    display: inline;
+}
